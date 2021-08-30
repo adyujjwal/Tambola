@@ -1,0 +1,14 @@
+@media (max-width: 420px){
+    .container {
+      max-width: 100%;
+      padding:0;
+    }
+    .card-body {
+      flex: 1 1 auto;
+      min-height: 1px;
+      padding: 0px !important;
+    }
+    }
+    .letter-button{
+      font-family: 'Press Start 2P', cursive;
+  }
