@@ -2,13 +2,20 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # Tambola
 
-Want to Play Tambola with your friend???
+Want to Play Tambola with your friends??
 
 Your search is over as I have developed an application that allows any number of users to play Tambola/Housie in a Virtual meeting.
 
-A static UI application developed using Angular that allows multiple people to play Tambola/Housie together over a Zoom/Teams meeting.
+## Contents
 
-Steps to Play:
+- [Introduction](#introduction)
+- [Steps To Play](#steps-to-play)
+
+## Introduction
+
+A static UI application developed using Angular that allows multiple people to play Tambola/Housie together over a Zoom/Teams meeting. The Host can share their screen and open any Tambola/Housie number generator online and as the game proceeds user can mark the numbers called by the host on their screens and call out when the win a combo like - (first give, bulls eye, four corners, full housie etc.)
+
+## Steps to Play
 
 Step 1: Go to the following Link : https://tambola.netlify.app/
 
